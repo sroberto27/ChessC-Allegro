@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1378494357 source:c:\users\diriangen\desktop\juego\ajedrez\main.cpp
+	<allegro.h>
+	"inicia.h"
+
+1341430402 c:\users\diriangen\desktop\juego\ajedrez\inicia.h
+
+1343245545 source:c:\users\diriangen\desktop\juego\ajedrez\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
